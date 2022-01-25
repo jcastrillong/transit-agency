@@ -1,13 +1,7 @@
 package GUI;
 
-import Modelo.Agente;
-import Modelo.Licencia;
-import Modelo.MotivoMulta;
-import Modelo.Multa;
-import Modelo.OrganismoTransito;
-import Modelo.TextPrompt;
-import Modelo.Vehiculo;
-import Excepciones.ExcepcionObjetoNoEncontrado;
+import Modelo.*;
+import Excepciones.*;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

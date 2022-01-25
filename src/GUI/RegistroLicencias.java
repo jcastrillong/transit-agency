@@ -1,12 +1,7 @@
 package GUI;
 
-import Modelo.TextPrompt;
-import Modelo.Categoria;
-import Modelo.Genero;
-import Modelo.Licencia;
-import Modelo.OrganismoTransito;
-import Modelo.Persona;
-import Excepciones.ExcepcionObjetoNoEncontrado;
+import Modelo.*;
+import Excepciones.*;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

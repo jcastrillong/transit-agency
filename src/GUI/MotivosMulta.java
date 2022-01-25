@@ -1,7 +1,6 @@
 package GUI;
 
-import Modelo.MotivoMulta;
-import Modelo.OrganismoTransito;
+import Modelo.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.event.TableModelListener;

@@ -1,10 +1,7 @@
 package GUI;
 
-import Modelo.Multa;
-import Modelo.OrganismoTransito;
+import Modelo.*;
 import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.ZoneId;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 

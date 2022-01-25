@@ -1,6 +1,5 @@
 package GUI;
 
-import Modelo.Multa;
 import Modelo.OrganismoTransito;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
